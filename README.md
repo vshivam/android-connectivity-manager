@@ -1,5 +1,6 @@
-android-connectivity-manager
-============================
+# android-connectivity-manager #
 
-Usage of ConnectivityManager (TYPE_MOBILE, TYPE_ETHERNET)
-and WifiManager Classes to connect to the network. 
+
+* A basic android application to demonstrate the *ConnectivityManager* and *WifiManager* classes. 
+
+* The App logs the state of each Network Connection to the DDMS
